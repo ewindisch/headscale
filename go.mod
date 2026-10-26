@@ -6,7 +6,7 @@ require (
 	github.com/arl/statsviz v0.8.2
 	github.com/caddyserver/certmagic v0.25.6
 	github.com/cenkalti/backoff/v5 v5.0.3
-	github.com/chasefleming/elem-go v0.36.0
+	github.com/chasefleming/elem-go v0.37.0
 	github.com/coder/websocket v1.8.15
 	github.com/coreos/go-oidc/v3 v3.21.0
 	github.com/creachadair/command v0.2.12
@@ -34,7 +34,7 @@ require (
 	github.com/libdns/rfc2136 v1.0.1
 	github.com/mholt/acmez/v3 v3.1.7
 	github.com/miekg/dns v1.1.73
-	github.com/oapi-codegen/runtime v1.7.0
+	github.com/oapi-codegen/runtime v1.8.0
 	github.com/oauth2-proxy/mockoidc v0.0.0-20240214162133-caebfff84d25
 	github.com/ory/dockertest/v3 v3.12.0
 	github.com/pkg/profile v1.7.0
@@ -83,7 +83,7 @@ require (
 	// go get modernc.org/libc@v1.55.3 modernc.org/sqlite@v1.33.1
 	modernc.org/sqlite v1.61.0
 	pgregory.net/rapid v1.3.0
-	tailscale.com v1.105.0-pre.0.20261022061721-37fc7a7a7260
+	tailscale.com v1.105.0-pre.0.20261026030858-eba00ab36389
 	tailscale.com/client/tailscale/v2 v2.12.0
 	zombiezen.com/go/postgrestest v1.0.1
 )
